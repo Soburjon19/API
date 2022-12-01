@@ -1,0 +1,2 @@
+class Dotum < ApplicationRecord
+end
