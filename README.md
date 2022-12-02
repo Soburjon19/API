@@ -1,24 +1,17 @@
-# README
+# Welcome to My Api
+My Api Demo: https://api-dota.onrender.com/ <br>
+my Github: https://github.com/Soburjon19/API.git <br>
+Documentation: https://documenter.getpostman.com/view/22473861/2s8YsnYGzB
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Task
+I had a lot of problems, but I didn't give up
+I like the Rails framework
 
-Things you may want to cover:
+## Description
+google helped me a lot
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Installation
+1. bundle install 
+2. rails db:migrate 
+3. rails db:seed 
+4. rails server
